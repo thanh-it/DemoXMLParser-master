@@ -1,0 +1,4 @@
+#Thu Nov 22 08:44:04 ICT 2018
+base.0=C\:\\Users\\THANH-IT\\Desktop\\DemoXMLParser-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
